@@ -1,0 +1,18 @@
+.fo1{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 500px;
+	height: 300px;
+	background: url(../fotos/fo1.png);
+	background-size: cover;
+}
+.fo2{
+	position: absolute;
+	top: 10px;
+	left: 500px;
+	width: 100px;
+	height: 500px;
+	background: url(../fotos/fo2.jpg);
+	background-size: cover;
+}
